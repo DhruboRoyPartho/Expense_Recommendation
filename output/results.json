@@ -1,0 +1,12 @@
+{
+    "latest_total_expense": 13642.11,
+    "predicted_expense": 21163.51,
+    "savings_tip": "Your expense might increase by 7521.4. Try reducing costs in dining or shopping.",
+    "recommended_budget": {
+        "Grocery": 3174.53,
+        "Rent": 7407.23,
+        "Dining": 2116.35,
+        "Entertainment": 2116.35,
+        "Savings": 6349.05
+    }
+}
